@@ -53,7 +53,7 @@ li {
 ヘッダー
 --------------------------------------------*/
 #header {
-    background-image: url(img/mainvisual.jpeg);
+    background-image: url(https://github.com/yasu-works/coffee/mainvisual.jpeg);
     min-height: 100vh;
     width: 100%;
     background-size: cover;
@@ -96,7 +96,7 @@ nav li a:hover {
 }
 
 #menu .menu-img {
-    background-image: url(img/menu.jpeg);
+    background-image: url(https://github.com/yasu-works/coffee/menu.jpeg);
     position: relative;
 }
 
@@ -154,7 +154,7 @@ nav li a:hover {
 --------------------------------------------*/
 
 .about-img {
-    background-image: url(img/about.jpeg);
+    background-image: url(https://github.com/yasu-works/coffee/about.jpeg);
     position: relative;
 }
 
@@ -248,7 +248,7 @@ nav li a:hover {
 --------------------------------------------*/
 
 .location-img {
-    background-image: url(img/location.jpeg);
+    background-image: url(https://github.com/yasu-works/coffee/location.jpeg);
     position: relative;
 }
 
